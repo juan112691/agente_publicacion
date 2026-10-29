@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.ini
+*.png
+.env
+chroma_db/
+.vscode/
+uploads/
+*.zip
+auth/
